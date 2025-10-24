@@ -1,1 +1,1 @@
-# Genai-stack
+# GenAi-stack
